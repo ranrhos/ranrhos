@@ -1,12 +1,14 @@
 <div align="center">
 <h1>felur</h1>
-![yawn gif](https://github.com/ranrhos/ranrhos/blob/main/yawn.gif?raw=true)
+
 
 <blockquote><strong>My name is felur </strong></blockquote>
 
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 <hr>
+
+![yawn gif](https://github.com/ranrhos/ranrhos/blob/main/yawn.gif?raw=true)
 
 ## What I am Using:
 
